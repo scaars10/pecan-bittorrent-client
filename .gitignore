@@ -1,0 +1,4 @@
+.idea
+*.ipynb
+data
+*__pycache__
